@@ -1,10 +1,10 @@
 {
-    "title": "n8n Playground",
-    "description": "A clean Ubuntu environment with n8n pre-installed. Explore n8n freely without any hassle",
+    "title": "Ollama Playground",
+    "description": "A clean Ubuntu environment with Ollama pre-installed. Explore Ollama freely without any hassle",
     "details": {
         "steps": [
             {
-                "title": "Start n8n Lab",
+                "title": "Start Ollama Lab",
                 "foreground": "foreground.sh",
                 "text": "step1.md"
             }
