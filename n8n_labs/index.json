@@ -5,6 +5,7 @@
         "steps": [
             {
                 "title": "Start n8n Lab",
+                "foreground": "foreground.sh",
                 "text": "step1.md"
             }
         ]
