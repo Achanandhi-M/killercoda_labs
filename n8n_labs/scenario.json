@@ -1,0 +1,23 @@
+{
+    "title": "Open n8n Playground",
+    "description": "A clean Ubuntu environment with n8n pre-installed. Explore n8n freely without any hassle",
+    "details": {
+        "steps": [
+            {
+                "title": "Start n8n Lab",
+                "text": "step1.md"
+            }
+        ]
+    },
+    "environment": {
+        "showide": false,
+        "showterminal": true,
+        "uilayout": "terminal"
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    },
+    "files": {
+        "run": "startup.sh"
+    }
+}
