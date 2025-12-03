@@ -4,7 +4,7 @@ Now that your website is ready, the final step is to **deploy it to Netlify** so
 
 ---
 
-## Option A — If you have a GitHub repository
+
 1. Go to https://app.netlify.com  
 2. Click **“Add new site” → “Import from Git”**  
 3. Select your GitHub repo  
@@ -14,21 +14,6 @@ Now that your website is ready, the final step is to **deploy it to Netlify** so
 
 ---
 
-## Option B — If you downloaded a ZIP folder with HTML/CSS files
-1. Go to Netlify → **Add new site**  
-2. Choose **“Deploy manually”**  
-3. Drag and drop your website folder (must contain `index.html`)  
-4. Wait a few seconds  
-5. Netlify will give you a public URL — save it
-
----
-
-## Final Submission (what we expect)
-Please prepare a short note that includes:
-
-- The **AI tool** you used (Cursor / Lovable / Antigravity / Kiro)  
-- The **final prompt** you used  
-- The **live Netlify link** to your website  
 
 That’s it — keep it simple and clean.
 
