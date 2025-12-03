@@ -1,6 +1,6 @@
 {
     "title": "Prompt Engineering Skill Test",
-    "description": "A simple two-step hands-on activity: first create a website using any AI website builder (Cursor, Lovable, Antigravity, or Kiro) using good prompt engineering. Then deploy the website to Netlify.",
+    "description": "In this hands-on activity, you'll explore prompt engineering by building a small website using an AI tool like Cursor, Lovable, Antigravity, or Kiro. Once your site is ready, you'll deploy it to Netlify and share the live link.",
     "details": {
         "steps": [
             {
