@@ -1,0 +1,27 @@
+{
+    "title": "Dockerize an Existing Application",
+    "description": "Learn how to use Docker by cloning a project, building its image using an existing Dockerfile, and running it as a container.",
+    "details": {
+        "steps": [
+            {
+                "title": "Task 1: Build and Run the Docker Image",
+                "text": "task1.md"
+            }
+        ],
+        "intro": {
+            "text": "task1.md"
+        },
+        "assets": {
+            "client": [],
+            "host": []
+        }
+    },
+    "difficulty": "beginner",
+    "environment": {
+        "uilayout": "terminal-editor",
+        "showide": false
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}
