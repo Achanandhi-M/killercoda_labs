@@ -5,11 +5,11 @@
         "steps": [
             {
                 "title": "Task 1: Build and Run the Docker Image",
-                "text": "task1.md"
+                "text": "step1.md"
             }
         ],
         "intro": {
-            "text": "task1.md"
+            "text": "step1.md"
         },
         "assets": {
             "client": [],
