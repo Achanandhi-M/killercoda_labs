@@ -3,7 +3,7 @@
 You now have a clean Ubuntu environment with **Ollama already installed and running** for you.
 In this task, you will **run an open-source LLM locally**—just like interacting with ChatGPT, but fully on your own machine.
 
-Follow the steps below 👇
+Follow the steps below
 
 ---
 
@@ -18,7 +18,7 @@ ollama run gemma3:270m
 
 ---
 
-## 🗣️ Step 2: Start Chatting With the Model
+## Step 2: Start Chatting With the Model
 
 As soon as you run the above command:
 
@@ -37,7 +37,7 @@ Feel free to ask anything—just like you would ask ChatGPT.
 
 ---
 
-## 🧩 Step 3: Try Your Own Prompts
+## Step 3: Try Your Own Prompts
 
 Here are some ideas you can try:
 
